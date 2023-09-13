@@ -1,8 +1,7 @@
 import math
-from abc import ABC
 from math import pi
 
-from area.interface import BaseFigure
+from task1.area.interface import BaseFigure
 
 
 class Circle(BaseFigure):
